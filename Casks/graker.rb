@@ -1,6 +1,6 @@
 cask "graker" do
-  version "1.6.1"
-  sha256 "0ab7cec50d30bb760fce9bd1e3de463076d078c9adbda0d09666ce37f551692d"
+  version "1.6.2"
+  sha256 "a7c0315be918139e742f578ed2a47a7d80c13fc043adb7bba8b7b5a03ab0757e"
 
   url "https://dl.graker.fehey.com/Graker-#{version}.dmg"
   name "Graker"
